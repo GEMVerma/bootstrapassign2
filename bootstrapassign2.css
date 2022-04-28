@@ -1,0 +1,20 @@
+.container1{
+    margin-left: 12vh;
+    margin-right: 12vh;
+    background-color: rgba(228, 228, 228, 0.715);
+}
+#container1row1{
+    margin-left: 6vh;
+}
+#container1row1column1{
+    margin-top: 8vh;
+}
+#container1row2{
+    margin-top: 5vh;
+}
+#container1row2column1{
+    margin-left: 8vh;
+}
+#title{
+    background-color: rgba(221, 221, 221, 0.872);
+}
